@@ -3,4 +3,4 @@
 - Some features have been stripped out due to minimal use
 #
  To use with Powershell use this link
-- iex ((New-Object System.Net.WebClient).DownloadString('https://tinyurl.com/controlPanelGUI'))
+- iex ((New-Object System.Net.WebClient).DownloadString('https://tinyurl.com/controlPanelGUI-script'))
